@@ -28,7 +28,7 @@
   left: 550px;
   background-image: url("http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/da268f06e621b21.png");
   background-size: cover;
-  /* animation: rock 1.33s infinite; */
+  animation: rock 1.4s infinite;
 }
 
 @keyframes rock {
